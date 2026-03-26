@@ -5,9 +5,9 @@ const contaPaga = false;
 
 // falso e verdadeiro
 
-console.log(0 == false);
-console.log("" == false);
-console.log(1 == true);
+//console.log(0 == false);
+//console.log("" == false);
+//console.log(1 == true);
 
 //undefined
 
@@ -17,5 +17,5 @@ let varnull = null;
 let numero = 3;
 let texto = "alura";
 
-console.log(typeof numero);
-console.log(typeof texto);
+console.log( minhaVar);
+console.log( varnull);
